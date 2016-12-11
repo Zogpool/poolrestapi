@@ -1,0 +1,3 @@
+/home/luckpool/pool/poolrestapi/x86_64-Linux/CMakeFiles/rebuild_cache.dir
+/home/luckpool/pool/poolrestapi/x86_64-Linux/CMakeFiles/edit_cache.dir
+/home/luckpool/pool/poolrestapi/x86_64-Linux/CMakeFiles/poolrestapi.dir
